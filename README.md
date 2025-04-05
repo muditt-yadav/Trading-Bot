@@ -1,1 +1,2 @@
 # Trading-Bot
+Note: The source code for this project is private and has not been shared in this repository for intellectual property reasons. I've put a lot of time, research, and effort into building this automated trading system — including custom logic, indicator integration, and strategy development. I respectfully request that no one claim ownership of this work or attempt to replicate it without permission. If you're interested in collaborating, feel free to reach out!
